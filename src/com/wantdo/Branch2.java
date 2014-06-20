@@ -9,9 +9,6 @@ public class Branch2 {
 		// TODO Auto-generated method stub
 		System.out.println("hello");
 		
-		System.out.println("hello Word！");
-
-		System.out.println("hello Word too！");
 	}
 
 }
