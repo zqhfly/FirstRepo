@@ -11,6 +11,7 @@ public class Branch2 {
 		
 		System.out.println("hello Word！");
 
+		System.out.println("hello Word too！");
 	}
 
 }
