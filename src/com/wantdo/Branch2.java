@@ -10,6 +10,7 @@ public class Branch2 {
 		System.out.println("hello");
 		System.out.println("hello world!");
 		
+		System.out.println("hello world!");
 	}
 
 }
